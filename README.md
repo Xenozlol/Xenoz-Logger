@@ -23,4 +23,4 @@ Xenoz Logger | FEATURES
 📂 File Stealer
 📂 Search User PC for Passwords, 2Fa codes, tokens, wallets...
 
-🔔 Browsers: Opera, Chrome, Brave, Yandex, Edge
+🔔Browsers: Opera, Chrome, Brave, Yandex, Edge

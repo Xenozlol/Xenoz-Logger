@@ -21,6 +21,6 @@ Xenoz Logger | FEATURES
 🎮 Steal Nation Glory Launcher accounts
 
 📂 File Stealer
-📂Search User PC for Passwords, 2Fa codes, tokens, wallets...
+📂 Search User PC for Passwords, 2Fa codes, tokens, wallets...
 
 🔔 Browsers: Opera, Chrome, Brave, Yandex, Edge
